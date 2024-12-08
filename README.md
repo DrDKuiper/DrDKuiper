@@ -33,4 +33,4 @@ Key areas of interest include:
 - **Information security**, safeguarding data and mitigating risks.  
 - **Process automation**, boosting agility and precision across various scenarios.  
 
-Each project reflects a commitment to blending functionality with innovation.  
+Each project reflects a commitment to blending functionality with innovation.
